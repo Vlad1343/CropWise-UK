@@ -1,0 +1,9 @@
+data/env_data.json
+*.csv
+*.txt
+*old/
+
+!backend/requirements.txt
+
+!data/csv_trial1.csv
+!data/csv_trial2.csv
