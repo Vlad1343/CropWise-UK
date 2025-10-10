@@ -112,4 +112,3 @@ For collaborations, research partnerships, or technical inquiries:
 ![System Architecture](photos/photo4.png)
 
 MIT License © 2025 Vladyslav Shutkevych — Developed to advance sustainable agriculture through AI and environmental intelligence.
-# CropWise-UK
