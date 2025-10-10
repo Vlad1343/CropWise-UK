@@ -1,0 +1,2 @@
+Crop,Temp_min,Temp_max,Precip_min,Precip_max,SoilMoist_min,SoilMoist_max,ph_min,ph_max,n_min,n_max,p_min,p_max,k_min,k_max,sand_ratio_min,sand_ratio_max,clay_ratio_min,clay_ratio_max,silt_ratio_min,silt_ratio_max
+Wheat,5,20,450,800,0.4,0.6,6.0,7.5,40,120,20,80,100,250,0.2,0.6,0.1,0.4,0.2,0.6
