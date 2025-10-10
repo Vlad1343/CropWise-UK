@@ -1,0 +1,1 @@
+{"features": ["mean_temp", "precip", "soil_moisture_index", "ph", "n", "p", "k", "sand_ratio", "clay_ratio", "silt_ratio"], "crops": ["Wheat", "Barley", "Oats", "Potatoes", "Carrots", "Onions", "Cabbage", "Lettuce", "Tomatoes", "Peas", "Beans", "Strawberries", "Apples", "Pears", "Plums", "Raspberries", "Blackberries", "Blueberries", "Rye", "Turnips"]}
