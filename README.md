@@ -84,11 +84,9 @@ CropWise UK processes and standardizes environmental data for accurate recommend
 
 ![System Architecture](photos/photo5.png)
 
-- **Hybrid scoring engine** blending ML and rule-based logic for transparent, high-accuracy recommendations.  
-- **Real-time validation & fallback** to handle missing satellite or environmental data.  
-- **Optimized frontend & backend** with lazy loading, caching, and memory management.  
-- **Interactive, map-driven analytics** with tooltips and dynamic charting.  
-- **Accessibility compliance (WCAG 2.1)** and PWA readiness.  
+- Data sourced from **Open-Meteo API** for accurate and up-to-date environmental insights.
+- **Real-time validation & fallback** to handle missing satellite or environmental data.
+- **Interactive, map-driven analytics** with tooltips and dynamic charting.
 
 ---
 
