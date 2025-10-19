@@ -64,7 +64,6 @@ CropWise UK processes and standardizes environmental data for accurate recommend
 ### **Infrastructure**
 
 - **Dockerized architecture** with Docker Compose.  
-- **Cloud deployment**: Render (API) + Vercel (Frontend).  
 - **CI/CD pipelines** with automated testing, linting, and monitoring.
 
 ---
